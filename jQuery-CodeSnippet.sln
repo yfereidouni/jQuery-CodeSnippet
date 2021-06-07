@@ -18,6 +18,36 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{8D3C77CF-7A17-
 		02.01.fading\js\script.js = 02.01.fading\js\script.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.02.fading-pitfalls", "02.02.fading-pitfalls", "{68C5E7C6-71E8-46E1-8522-CF08DEFD1E14}"
+	ProjectSection(SolutionItems) = preProject
+		02.02.fading-pitfalls\index.html = 02.02.fading-pitfalls\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{49CFF52C-9BEC-4357-9DC7-F717E4DBEADA}"
+	ProjectSection(SolutionItems) = preProject
+		02.02.fading-pitfalls\css\style.css = 02.02.fading-pitfalls\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{3D2A9D1A-5313-4B5B-8AE4-C1B9F94D6AFD}"
+	ProjectSection(SolutionItems) = preProject
+		02.02.fading-pitfalls\js\script.js = 02.02.fading-pitfalls\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.03.show-hide", "02.03.show-hide", "{BFF263E5-71ED-46DA-AEB7-A86C69908B74}"
+	ProjectSection(SolutionItems) = preProject
+		02.03.show-hide\index.html = 02.03.show-hide\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{EAB652CD-AC20-4751-9524-C67CC83F82C6}"
+	ProjectSection(SolutionItems) = preProject
+		02.03.show-hide\css\style.css = 02.03.show-hide\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5B6D7E2B-DABE-4075-8ED4-D3F8A3352809}"
+	ProjectSection(SolutionItems) = preProject
+		02.03.show-hide\js\script.js = 02.03.show-hide\js\script.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -25,6 +55,10 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{9D2F930A-3CB4-4F61-9584-0550280873C0} = {0468ED2C-81A0-4B63-ADA3-1A05F4B00CF1}
 		{8D3C77CF-7A17-43DA-81C0-2C572E2352DE} = {0468ED2C-81A0-4B63-ADA3-1A05F4B00CF1}
+		{49CFF52C-9BEC-4357-9DC7-F717E4DBEADA} = {68C5E7C6-71E8-46E1-8522-CF08DEFD1E14}
+		{3D2A9D1A-5313-4B5B-8AE4-C1B9F94D6AFD} = {68C5E7C6-71E8-46E1-8522-CF08DEFD1E14}
+		{EAB652CD-AC20-4751-9524-C67CC83F82C6} = {BFF263E5-71ED-46DA-AEB7-A86C69908B74}
+		{5B6D7E2B-DABE-4075-8ED4-D3F8A3352809} = {BFF263E5-71ED-46DA-AEB7-A86C69908B74}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AE30A528-A80F-4B72-84AB-68C7793BF02F}
