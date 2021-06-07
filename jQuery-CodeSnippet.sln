@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.01.fading", "02.01.fading", "{0468ED2C-81A0-4B63-ADA3-1A05F4B00CF1}"
+	ProjectSection(SolutionItems) = preProject
+		02.01.fading\index.html = 02.01.fading\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{9D2F930A-3CB4-4F61-9584-0550280873C0}"
+	ProjectSection(SolutionItems) = preProject
+		02.01.fading\css\style.css = 02.01.fading\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{8D3C77CF-7A17-43DA-81C0-2C572E2352DE}"
+	ProjectSection(SolutionItems) = preProject
+		02.01.fading\js\script.js = 02.01.fading\js\script.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9D2F930A-3CB4-4F61-9584-0550280873C0} = {0468ED2C-81A0-4B63-ADA3-1A05F4B00CF1}
+		{8D3C77CF-7A17-43DA-81C0-2C572E2352DE} = {0468ED2C-81A0-4B63-ADA3-1A05F4B00CF1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE30A528-A80F-4B72-84AB-68C7793BF02F}
+	EndGlobalSection
+EndGlobal
