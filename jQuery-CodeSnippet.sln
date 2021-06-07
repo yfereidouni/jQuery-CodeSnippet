@@ -48,6 +48,588 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5B6D7E2B-DABE-
 		02.03.show-hide\js\script.js = 02.03.show-hide\js\script.js
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.04.sliding", "02.04.sliding", "{5D575481-E996-4F19-8634-57F7A5F8DDD5}"
+	ProjectSection(SolutionItems) = preProject
+		02.04.sliding\index.html = 02.04.sliding\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{BEB837E3-5134-41D8-BF18-4BE281BCF80E}"
+	ProjectSection(SolutionItems) = preProject
+		02.04.sliding\css\style.css = 02.04.sliding\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9255A29E-BCB9-456A-B976-4CFFB1167D0F}"
+	ProjectSection(SolutionItems) = preProject
+		02.04.sliding\js\script.js = 02.04.sliding\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.05.moving", "02.05.moving", "{2BF40895-3EE9-4565-B34B-5937F4B086E7}"
+	ProjectSection(SolutionItems) = preProject
+		02.05.moving\index.html = 02.05.moving\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{6AAEEAB7-0676-42E6-9574-94CB890E3891}"
+	ProjectSection(SolutionItems) = preProject
+		02.05.moving\css\style.css = 02.05.moving\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{C0DFF149-2C58-477B-8B0F-80858CFD5154}"
+	ProjectSection(SolutionItems) = preProject
+		02.05.moving\js\script.js = 02.05.moving\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.06.custom-animations", "02.06.custom-animations", "{33CC7191-30AC-44DC-AF5F-7C68B7D43D8C}"
+	ProjectSection(SolutionItems) = preProject
+		02.06.custom-animations\index.html = 02.06.custom-animations\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{9A577B51-94C7-4A8C-8A33-88899ABF94B5}"
+	ProjectSection(SolutionItems) = preProject
+		02.06.custom-animations\css\style.css = 02.06.custom-animations\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{C8C183C3-61A1-4B44-B58D-5E75C36B0D85}"
+	ProjectSection(SolutionItems) = preProject
+		02.06.custom-animations\js\script.js = 02.06.custom-animations\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.07.delaying-chaining", "02.07.delaying-chaining", "{AF631919-D334-4BB6-9102-92F9449D93A6}"
+	ProjectSection(SolutionItems) = preProject
+		02.07.delaying-chaining\index.html = 02.07.delaying-chaining\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{C4636DB0-4AC5-4EB0-992F-36FA0191022E}"
+	ProjectSection(SolutionItems) = preProject
+		02.07.delaying-chaining\js\script.js = 02.07.delaying-chaining\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{91FAAFBC-938A-4B25-881C-86E698668FE5}"
+	ProjectSection(SolutionItems) = preProject
+		02.07.delaying-chaining\css\style.css = 02.07.delaying-chaining\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.08.callbacks", "02.08.callbacks", "{D71894F2-1417-4FE8-91E7-B85213200507}"
+	ProjectSection(SolutionItems) = preProject
+		02.08.callbacks\index.html = 02.08.callbacks\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{AF7527D0-42C1-473F-8616-BBBFDE5006B5}"
+	ProjectSection(SolutionItems) = preProject
+		02.08.callbacks\css\style.css = 02.08.callbacks\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{CAF5E91D-A02F-49B0-8795-CD4A55F3215F}"
+	ProjectSection(SolutionItems) = preProject
+		02.08.callbacks\js\script.js = 02.08.callbacks\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02.09.signup-lightbox", "02.09.signup-lightbox", "{332C09A9-F1A6-4721-8C26-CDF5A640EEAC}"
+	ProjectSection(SolutionItems) = preProject
+		02.09.signup-lightbox\index.html = 02.09.signup-lightbox\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{E7212A59-8F05-4869-A284-5F51887D4C20}"
+	ProjectSection(SolutionItems) = preProject
+		02.09.signup-lightbox\css\style.css = 02.09.signup-lightbox\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{B913A685-39EE-44FD-8ADD-1588AB68310A}"
+	ProjectSection(SolutionItems) = preProject
+		02.09.signup-lightbox\js\script.js = 02.09.signup-lightbox\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.01.selectors", "03.01.selectors", "{8C438133-3505-42C0-BF16-7368D0504E11}"
+	ProjectSection(SolutionItems) = preProject
+		03.01.selectors\index.html = 03.01.selectors\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{652F9E9F-9BAB-4604-81CF-4707BD33B3E9}"
+	ProjectSection(SolutionItems) = preProject
+		03.01.selectors\css\style.css = 03.01.selectors\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{F88E620B-CF87-434E-A319-A32C7251F0D0}"
+	ProjectSection(SolutionItems) = preProject
+		03.01.selectors\js\script.js = 03.01.selectors\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.02.traversing", "03.02.traversing", "{A76BBA5D-0B4D-4F76-846E-51B142410103}"
+	ProjectSection(SolutionItems) = preProject
+		03.02.traversing\index.html = 03.02.traversing\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{67929B47-3F4D-4CEB-88DD-6D41DA5F0B9D}"
+	ProjectSection(SolutionItems) = preProject
+		03.02.traversing\css\style.css = 03.02.traversing\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{0D0D8203-D8FD-4901-8D73-40E6BF5ECF1A}"
+	ProjectSection(SolutionItems) = preProject
+		03.02.traversing\js\script.js = 03.02.traversing\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03.03.filtering", "03.03.filtering", "{DEFD430C-937E-4201-9393-1F27F700258E}"
+	ProjectSection(SolutionItems) = preProject
+		03.03.filtering\index.html = 03.03.filtering\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{F4BCFE36-D5D1-4E1B-9E18-643F6139D212}"
+	ProjectSection(SolutionItems) = preProject
+		03.03.filtering\css\style.css = 03.03.filtering\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9DCC19A6-AE52-493B-A884-6D3D79814EF1}"
+	ProjectSection(SolutionItems) = preProject
+		03.03.filtering\js\script.js = 03.03.filtering\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.01.adding-elements", "04.01.adding-elements", "{123BA01D-5676-4CD1-96C6-FC6C6B0ED970}"
+	ProjectSection(SolutionItems) = preProject
+		04.01.adding-elements\index.html = 04.01.adding-elements\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{81877A02-4CDC-450B-948C-7180B5D66205}"
+	ProjectSection(SolutionItems) = preProject
+		04.01.adding-elements\css\style.css = 04.01.adding-elements\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{A6AF045C-FCE7-4E7A-BD49-4B217B02C888}"
+	ProjectSection(SolutionItems) = preProject
+		04.01.adding-elements\js\script.js = 04.01.adding-elements\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.02.replacing-elements", "04.02.replacing-elements", "{52F779D8-DC2C-4C51-8E7A-88A67A5FCFE8}"
+	ProjectSection(SolutionItems) = preProject
+		04.02.replacing-elements\index.html = 04.02.replacing-elements\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{785DE72F-D56A-45F6-B785-92678FD5EAA5}"
+	ProjectSection(SolutionItems) = preProject
+		04.02.replacing-elements\css\style.css = 04.02.replacing-elements\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9C2DB49A-F825-429D-B8FA-5E6CFD1C1238}"
+	ProjectSection(SolutionItems) = preProject
+		04.02.replacing-elements\js\script.js = 04.02.replacing-elements\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.03.removing-elements", "04.03.removing-elements", "{20159992-75E5-4696-A856-97BE3EA67E8F}"
+	ProjectSection(SolutionItems) = preProject
+		04.03.removing-elements\index.html = 04.03.removing-elements\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{1D2B790B-3191-4899-94F7-7D64C63EE3C6}"
+	ProjectSection(SolutionItems) = preProject
+		04.03.removing-elements\css\style.css = 04.03.removing-elements\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{7186BCCF-C258-482A-9BC0-F24C011D3A9A}"
+	ProjectSection(SolutionItems) = preProject
+		04.03.removing-elements\js\script.js = 04.03.removing-elements\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.04.change-attributes-properties", "04.04.change-attributes-properties", "{BEC8A5B3-EB7F-4B5C-806E-AAF68A07A216}"
+	ProjectSection(SolutionItems) = preProject
+		04.04.change-attributes-properties\index.html = 04.04.change-attributes-properties\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{65D9BCDE-B996-4F70-80AF-1AAFFE10F677}"
+	ProjectSection(SolutionItems) = preProject
+		04.04.change-attributes-properties\css\style.css = 04.04.change-attributes-properties\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{49698878-289C-4288-9D5F-F8A1988D3A2B}"
+	ProjectSection(SolutionItems) = preProject
+		04.04.change-attributes-properties\js\script.js = 04.04.change-attributes-properties\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04.05.image-slideshow", "04.05.image-slideshow", "{239CC6A8-FB2E-435E-B64A-E5B90E13B40B}"
+	ProjectSection(SolutionItems) = preProject
+		04.05.image-slideshow\index.html = 04.05.image-slideshow\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{C7B40B37-428D-4FEF-9A9A-621AAA83DCC8}"
+	ProjectSection(SolutionItems) = preProject
+		04.05.image-slideshow\css\style.css = 04.05.image-slideshow\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{C28E0033-2A50-489C-A179-B61ECF115325}"
+	ProjectSection(SolutionItems) = preProject
+		04.05.image-slideshow\images\laptop-mobile_small.jpg = 04.05.image-slideshow\images\laptop-mobile_small.jpg
+		04.05.image-slideshow\images\laptop-on-table_small.jpg = 04.05.image-slideshow\images\laptop-on-table_small.jpg
+		04.05.image-slideshow\images\people-office-group-team_small.jpg = 04.05.image-slideshow\images\people-office-group-team_small.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{453CC176-808E-42A8-BA07-F9B623B433EF}"
+	ProjectSection(SolutionItems) = preProject
+		04.05.image-slideshow\js\script.js = 04.05.image-slideshow\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.01.change-css-styles", "05.01.change-css-styles", "{1A0604BD-C4D1-4310-8842-CC17BA8CE801}"
+	ProjectSection(SolutionItems) = preProject
+		05.01.change-css-styles\index.html = 05.01.change-css-styles\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{74731175-35AB-4C6D-AE2E-338C8F083AB2}"
+	ProjectSection(SolutionItems) = preProject
+		05.01.change-css-styles\css\style.css = 05.01.change-css-styles\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{03347F10-49A2-418B-853A-D3225A2ED79D}"
+	ProjectSection(SolutionItems) = preProject
+		05.01.change-css-styles\js\script.js = 05.01.change-css-styles\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.02.add-remove-css-classes", "05.02.add-remove-css-classes", "{D6AD6E73-6B5E-4872-BBD9-53EEA0CE76B4}"
+	ProjectSection(SolutionItems) = preProject
+		05.02.add-remove-css-classes\index.html = 05.02.add-remove-css-classes\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{9F26CF56-785B-46C6-A821-3B71FB5218E6}"
+	ProjectSection(SolutionItems) = preProject
+		05.02.add-remove-css-classes\css\style.css = 05.02.add-remove-css-classes\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{8CD989A1-FC94-4BAD-8F51-2A05094F6B34}"
+	ProjectSection(SolutionItems) = preProject
+		05.02.add-remove-css-classes\js\script.js = 05.02.add-remove-css-classes\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.03.element-data", "05.03.element-data", "{1522803A-D5B8-4F24-A1FB-AC4FBB0068BC}"
+	ProjectSection(SolutionItems) = preProject
+		05.03.element-data\index.html = 05.03.element-data\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{A4106F10-61CD-4317-98FE-F00B90F031D0}"
+	ProjectSection(SolutionItems) = preProject
+		05.03.element-data\css\style.css = 05.03.element-data\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{FCB963EC-96A9-47C5-9A0E-D135BFD2E9CD}"
+	ProjectSection(SolutionItems) = preProject
+		05.03.element-data\js\script.js = 05.03.element-data\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{0204A20A-97D1-4068-88F0-C267386317D0}"
+	ProjectSection(SolutionItems) = preProject
+		05.03.element-data\images\laptop-mobile_small.jpg = 05.03.element-data\images\laptop-mobile_small.jpg
+		05.03.element-data\images\laptop-on-table_small.jpg = 05.03.element-data\images\laptop-on-table_small.jpg
+		05.03.element-data\images\people-office-group-team_small.jpg = 05.03.element-data\images\people-office-group-team_small.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05.04.changing-element-content", "05.04.changing-element-content", "{0077DF4E-FC77-4217-972F-582076AB516B}"
+	ProjectSection(SolutionItems) = preProject
+		05.04.changing-element-content\index.html = 05.04.changing-element-content\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{F24391B3-5C8A-4F4F-BB32-227960531BFC}"
+	ProjectSection(SolutionItems) = preProject
+		05.04.changing-element-content\css\style.css = 05.04.changing-element-content\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{AC42EEB0-98FC-4F85-A0A2-E114B6CEA22D}"
+	ProjectSection(SolutionItems) = preProject
+		05.04.changing-element-content\js\script.js = 05.04.changing-element-content\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.01.click", "06.01.click", "{545525D1-F8BB-48CA-B73B-199D57349991}"
+	ProjectSection(SolutionItems) = preProject
+		06.01.click\index.html = 06.01.click\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{9BB51FF9-8792-4900-8545-0D27EC4E6A65}"
+	ProjectSection(SolutionItems) = preProject
+		06.01.click\css\style.css = 06.01.click\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{9EB8966B-164C-467B-9869-5A5AFC8501BE}"
+	ProjectSection(SolutionItems) = preProject
+		06.01.click\js\script.js = 06.01.click\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.02.hover", "06.02.hover", "{75E5942E-9706-404B-83A2-22317D723984}"
+	ProjectSection(SolutionItems) = preProject
+		06.02.hover\index.html = 06.02.hover\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{5BF5C620-A50B-4757-BA05-840DEAB39DBE}"
+	ProjectSection(SolutionItems) = preProject
+		06.02.hover\css\style.css = 06.02.hover\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{2B2169F8-31EF-49FD-8460-644CB715AB5C}"
+	ProjectSection(SolutionItems) = preProject
+		06.02.hover\js\script.js = 06.02.hover\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.03.mouseenter-mouseleave", "06.03.mouseenter-mouseleave", "{7ED7D3F9-60FB-4A98-8AA7-A5DD32DFAFD8}"
+	ProjectSection(SolutionItems) = preProject
+		06.03.mouseenter-mouseleave\index.html = 06.03.mouseenter-mouseleave\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{E9197530-A5D5-4F82-AA04-08AD0759D6E7}"
+	ProjectSection(SolutionItems) = preProject
+		06.03.mouseenter-mouseleave\css\style.css = 06.03.mouseenter-mouseleave\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{E712AE78-6AC0-4016-9A54-7A26554240F3}"
+	ProjectSection(SolutionItems) = preProject
+		06.03.mouseenter-mouseleave\js\script.js = 06.03.mouseenter-mouseleave\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.04.same-handler-multiple-events", "06.04.same-handler-multiple-events", "{FDE3E9C4-9003-4324-92FE-CAC7E8C12FF8}"
+	ProjectSection(SolutionItems) = preProject
+		06.04.same-handler-multiple-events\index.html = 06.04.same-handler-multiple-events\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{125810F7-5155-4A1C-B34A-96BF41CB6582}"
+	ProjectSection(SolutionItems) = preProject
+		06.04.same-handler-multiple-events\css\style.css = 06.04.same-handler-multiple-events\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{F038FBAA-1398-407A-9CB3-6F3699BC4805}"
+	ProjectSection(SolutionItems) = preProject
+		06.04.same-handler-multiple-events\js\script.js = 06.04.same-handler-multiple-events\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{522DB49D-BAEA-4BA4-9237-7EF6C02BC7CE}"
+	ProjectSection(SolutionItems) = preProject
+		06.04.same-handler-multiple-events\images\laptop-mobile_small.jpg = 06.04.same-handler-multiple-events\images\laptop-mobile_small.jpg
+		06.04.same-handler-multiple-events\images\laptop-on-table_small.jpg = 06.04.same-handler-multiple-events\images\laptop-on-table_small.jpg
+		06.04.same-handler-multiple-events\images\people-office-group-team_small.jpg = 06.04.same-handler-multiple-events\images\people-office-group-team_small.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.05.modularizing-event-handlers", "06.05.modularizing-event-handlers", "{8F8843CD-615B-4BAF-8156-7AB0198AC638}"
+	ProjectSection(SolutionItems) = preProject
+		06.05.modularizing-event-handlers\index.html = 06.05.modularizing-event-handlers\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{69D9446C-81CA-4C15-810A-E112FFECC61B}"
+	ProjectSection(SolutionItems) = preProject
+		06.05.modularizing-event-handlers\css\style.css = 06.05.modularizing-event-handlers\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{BD6AB63F-0224-4F35-B56F-FC5400308B97}"
+	ProjectSection(SolutionItems) = preProject
+		06.05.modularizing-event-handlers\js\script.js = 06.05.modularizing-event-handlers\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{3731ACD1-27E6-483B-ABEE-693E5454E74C}"
+	ProjectSection(SolutionItems) = preProject
+		06.05.modularizing-event-handlers\images\laptop-mobile_small.jpg = 06.05.modularizing-event-handlers\images\laptop-mobile_small.jpg
+		06.05.modularizing-event-handlers\images\laptop-on-table_small.jpg = 06.05.modularizing-event-handlers\images\laptop-on-table_small.jpg
+		06.05.modularizing-event-handlers\images\people-office-group-team_small.jpg = 06.05.modularizing-event-handlers\images\people-office-group-team_small.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.06.delegated-events", "06.06.delegated-events", "{3C3B57C7-C3D4-4179-93A8-5AA61075DD11}"
+	ProjectSection(SolutionItems) = preProject
+		06.06.delegated-events\index.html = 06.06.delegated-events\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{06266B51-B32E-4231-B445-4665EBA52706}"
+	ProjectSection(SolutionItems) = preProject
+		06.06.delegated-events\js\script.js = 06.06.delegated-events\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{C60590B4-E275-4345-8EEF-BE18B3F17663}"
+	ProjectSection(SolutionItems) = preProject
+		06.06.delegated-events\css\style.css = 06.06.delegated-events\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.07.event-data", "06.07.event-data", "{960197C4-749C-4396-8A29-9D80D01FADA6}"
+	ProjectSection(SolutionItems) = preProject
+		06.07.event-data\index.html = 06.07.event-data\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{DD0FDFF7-C7AB-4D95-992D-BEEB7C1ABAB0}"
+	ProjectSection(SolutionItems) = preProject
+		06.07.event-data\css\style.css = 06.07.event-data\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{5DAD3F2A-EBC3-403F-B699-EFBDB64046E4}"
+	ProjectSection(SolutionItems) = preProject
+		06.07.event-data\js\script.js = 06.07.event-data\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.08.gallery-with-lightbox", "06.08.gallery-with-lightbox", "{CCE4BEBA-5B3F-420B-B7B6-91FDAD9CE167}"
+	ProjectSection(SolutionItems) = preProject
+		06.08.gallery-with-lightbox\index.html = 06.08.gallery-with-lightbox\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{0EC59D24-9D3D-4B39-AF02-D807329917FF}"
+	ProjectSection(SolutionItems) = preProject
+		06.08.gallery-with-lightbox\css\style.css = 06.08.gallery-with-lightbox\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{4753FF95-6638-48AD-A152-AFF510937B5D}"
+	ProjectSection(SolutionItems) = preProject
+		06.08.gallery-with-lightbox\js\script.js = 06.08.gallery-with-lightbox\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{69F53374-9C23-4B95-B823-D8FEE436E15B}"
+	ProjectSection(SolutionItems) = preProject
+		06.08.gallery-with-lightbox\images\laptop-mobile_small.jpg = 06.08.gallery-with-lightbox\images\laptop-mobile_small.jpg
+		06.08.gallery-with-lightbox\images\laptop-on-table_small.jpg = 06.08.gallery-with-lightbox\images\laptop-on-table_small.jpg
+		06.08.gallery-with-lightbox\images\people-office-group-team_small.jpg = 06.08.gallery-with-lightbox\images\people-office-group-team_small.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06.09.key-events", "06.09.key-events", "{F853BB75-197E-4858-BFD8-B679204C2620}"
+	ProjectSection(SolutionItems) = preProject
+		06.09.key-events\index.html = 06.09.key-events\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{5BB86650-F316-4AC0-A99B-57AB9DABA12C}"
+	ProjectSection(SolutionItems) = preProject
+		06.09.key-events\css\style.css = 06.09.key-events\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{FE6C2E02-6E3E-459A-B778-46A02E2FDF23}"
+	ProjectSection(SolutionItems) = preProject
+		06.09.key-events\js\script.js = 06.09.key-events\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{B68C06E8-CABD-4D49-93D6-F3A2991A7CEC}"
+	ProjectSection(SolutionItems) = preProject
+		06.09.key-events\images\laptop-mobile_small.jpg = 06.09.key-events\images\laptop-mobile_small.jpg
+		06.09.key-events\images\laptop-on-table_small.jpg = 06.09.key-events\images\laptop-on-table_small.jpg
+		06.09.key-events\images\people-office-group-team_small.jpg = 06.09.key-events\images\people-office-group-team_small.jpg
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.01.focus-blur", "07.01.focus-blur", "{AE059C57-C613-483C-923C-9CA09ADD5525}"
+	ProjectSection(SolutionItems) = preProject
+		07.01.focus-blur\index.html = 07.01.focus-blur\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{318190EA-A171-4B6F-8F1B-AD95C6D7ED2D}"
+	ProjectSection(SolutionItems) = preProject
+		07.01.focus-blur\css\style.css = 07.01.focus-blur\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{CBFC0CF6-8006-4B53-B6E3-D867C753F356}"
+	ProjectSection(SolutionItems) = preProject
+		07.01.focus-blur\js\script.js = 07.01.focus-blur\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.02.change-event", "07.02.change-event", "{C0882C7C-91A6-4D46-B262-CC10B9D21330}"
+	ProjectSection(SolutionItems) = preProject
+		07.02.change-event\index.html = 07.02.change-event\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{2D49C885-B633-465F-9044-A7A6132F0693}"
+	ProjectSection(SolutionItems) = preProject
+		07.02.change-event\css\style.css = 07.02.change-event\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{FCEA13A7-AA46-4112-B2E3-FCA6A46B9CD7}"
+	ProjectSection(SolutionItems) = preProject
+		07.02.change-event\js\script.js = 07.02.change-event\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.03.submit-event", "07.03.submit-event", "{4C093A21-3379-45BE-81F4-52341862F95F}"
+	ProjectSection(SolutionItems) = preProject
+		07.03.submit-event\index.html = 07.03.submit-event\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{9157684E-CCBB-44FC-BDC7-F06811D53988}"
+	ProjectSection(SolutionItems) = preProject
+		07.03.submit-event\css\style.css = 07.03.submit-event\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{390FE28F-65CE-41E1-83AD-94E9CCB31187}"
+	ProjectSection(SolutionItems) = preProject
+		07.03.submit-event\js\script.js = 07.03.submit-event\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.04.form-validation", "07.04.form-validation", "{0DE18094-D590-45E6-A1DE-01516D7E7BDF}"
+	ProjectSection(SolutionItems) = preProject
+		07.04.form-validation\index.html = 07.04.form-validation\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{7EBD2E3B-4E6E-4B90-9EAA-440B1AEE6012}"
+	ProjectSection(SolutionItems) = preProject
+		07.04.form-validation\css\style.css = 07.04.form-validation\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{8F13B28A-DA2F-406E-A658-87F4ABF78971}"
+	ProjectSection(SolutionItems) = preProject
+		07.04.form-validation\js\script.js = 07.04.form-validation\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07.05.fast-feedback-form", "07.05.fast-feedback-form", "{A3CDABA5-1905-40C1-BE4E-E1CE015CBE44}"
+	ProjectSection(SolutionItems) = preProject
+		07.05.fast-feedback-form\index.html = 07.05.fast-feedback-form\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{9A48605F-0114-41EF-B2C3-0ED0773EFC36}"
+	ProjectSection(SolutionItems) = preProject
+		07.05.fast-feedback-form\css\style.css = 07.05.fast-feedback-form\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{26544F3C-221C-4BA3-8DB4-1D90AA1D01F9}"
+	ProjectSection(SolutionItems) = preProject
+		07.05.fast-feedback-form\js\script.js = 07.05.fast-feedback-form\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.01.load", "08.01.load", "{49E954AA-10D3-41E7-98EC-5B6E30D15BE1}"
+	ProjectSection(SolutionItems) = preProject
+		08.01.load\index.html = 08.01.load\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{522CEF1B-8EC3-4323-BDDE-8948E52D328F}"
+	ProjectSection(SolutionItems) = preProject
+		08.01.load\css\style.css = 08.01.load\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{C6FBFDA1-C31C-4F85-8FF4-10EFC422F83D}"
+	ProjectSection(SolutionItems) = preProject
+		08.01.load\js\script.js = 08.01.load\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.02.ajax-flickr", "08.02.ajax-flickr", "{BCFE8ABF-D4CD-4205-A2B3-3CFD750A93B3}"
+	ProjectSection(SolutionItems) = preProject
+		08.02.ajax-flickr\index.html = 08.02.ajax-flickr\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{F4087EA4-2BD5-4396-A389-544BB8740E46}"
+	ProjectSection(SolutionItems) = preProject
+		08.02.ajax-flickr\css\style.css = 08.02.ajax-flickr\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{0071C46D-0754-43A6-B974-B904CEEF05B1}"
+	ProjectSection(SolutionItems) = preProject
+		08.02.ajax-flickr\js\script.js = 08.02.ajax-flickr\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.03.ajax-pokemon", "08.03.ajax-pokemon", "{7885B720-8584-4926-B7A5-BFBE73F9E9A1}"
+	ProjectSection(SolutionItems) = preProject
+		08.03.ajax-pokemon\index.html = 08.03.ajax-pokemon\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{D0551E36-B8DE-44BA-9E2B-CDF9EADFACF4}"
+	ProjectSection(SolutionItems) = preProject
+		08.03.ajax-pokemon\css\style.css = 08.03.ajax-pokemon\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{374188CB-868F-41DE-AC0F-492BCD50E9F2}"
+	ProjectSection(SolutionItems) = preProject
+		08.03.ajax-pokemon\js\script.js = 08.03.ajax-pokemon\js\script.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "08.04.ajax-pokemon-2", "08.04.ajax-pokemon-2", "{9393116F-639D-4480-A329-FBF2CA94A057}"
+	ProjectSection(SolutionItems) = preProject
+		08.04.ajax-pokemon-2\index.html = 08.04.ajax-pokemon-2\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css", "css", "{E70BFF88-F52E-4609-85A4-48B54D42D569}"
+	ProjectSection(SolutionItems) = preProject
+		08.04.ajax-pokemon-2\css\style.css = 08.04.ajax-pokemon-2\css\style.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "js", "js", "{0E40F85C-D68B-4C0E-8342-E689A277266C}"
+	ProjectSection(SolutionItems) = preProject
+		08.04.ajax-pokemon-2\js\script.js = 08.04.ajax-pokemon-2\js\script.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -59,6 +641,84 @@ Global
 		{3D2A9D1A-5313-4B5B-8AE4-C1B9F94D6AFD} = {68C5E7C6-71E8-46E1-8522-CF08DEFD1E14}
 		{EAB652CD-AC20-4751-9524-C67CC83F82C6} = {BFF263E5-71ED-46DA-AEB7-A86C69908B74}
 		{5B6D7E2B-DABE-4075-8ED4-D3F8A3352809} = {BFF263E5-71ED-46DA-AEB7-A86C69908B74}
+		{BEB837E3-5134-41D8-BF18-4BE281BCF80E} = {5D575481-E996-4F19-8634-57F7A5F8DDD5}
+		{9255A29E-BCB9-456A-B976-4CFFB1167D0F} = {5D575481-E996-4F19-8634-57F7A5F8DDD5}
+		{6AAEEAB7-0676-42E6-9574-94CB890E3891} = {2BF40895-3EE9-4565-B34B-5937F4B086E7}
+		{C0DFF149-2C58-477B-8B0F-80858CFD5154} = {2BF40895-3EE9-4565-B34B-5937F4B086E7}
+		{9A577B51-94C7-4A8C-8A33-88899ABF94B5} = {33CC7191-30AC-44DC-AF5F-7C68B7D43D8C}
+		{C8C183C3-61A1-4B44-B58D-5E75C36B0D85} = {33CC7191-30AC-44DC-AF5F-7C68B7D43D8C}
+		{C4636DB0-4AC5-4EB0-992F-36FA0191022E} = {AF631919-D334-4BB6-9102-92F9449D93A6}
+		{91FAAFBC-938A-4B25-881C-86E698668FE5} = {AF631919-D334-4BB6-9102-92F9449D93A6}
+		{AF7527D0-42C1-473F-8616-BBBFDE5006B5} = {D71894F2-1417-4FE8-91E7-B85213200507}
+		{CAF5E91D-A02F-49B0-8795-CD4A55F3215F} = {D71894F2-1417-4FE8-91E7-B85213200507}
+		{E7212A59-8F05-4869-A284-5F51887D4C20} = {332C09A9-F1A6-4721-8C26-CDF5A640EEAC}
+		{B913A685-39EE-44FD-8ADD-1588AB68310A} = {332C09A9-F1A6-4721-8C26-CDF5A640EEAC}
+		{652F9E9F-9BAB-4604-81CF-4707BD33B3E9} = {8C438133-3505-42C0-BF16-7368D0504E11}
+		{F88E620B-CF87-434E-A319-A32C7251F0D0} = {8C438133-3505-42C0-BF16-7368D0504E11}
+		{67929B47-3F4D-4CEB-88DD-6D41DA5F0B9D} = {A76BBA5D-0B4D-4F76-846E-51B142410103}
+		{0D0D8203-D8FD-4901-8D73-40E6BF5ECF1A} = {A76BBA5D-0B4D-4F76-846E-51B142410103}
+		{F4BCFE36-D5D1-4E1B-9E18-643F6139D212} = {DEFD430C-937E-4201-9393-1F27F700258E}
+		{9DCC19A6-AE52-493B-A884-6D3D79814EF1} = {DEFD430C-937E-4201-9393-1F27F700258E}
+		{81877A02-4CDC-450B-948C-7180B5D66205} = {123BA01D-5676-4CD1-96C6-FC6C6B0ED970}
+		{A6AF045C-FCE7-4E7A-BD49-4B217B02C888} = {123BA01D-5676-4CD1-96C6-FC6C6B0ED970}
+		{785DE72F-D56A-45F6-B785-92678FD5EAA5} = {52F779D8-DC2C-4C51-8E7A-88A67A5FCFE8}
+		{9C2DB49A-F825-429D-B8FA-5E6CFD1C1238} = {52F779D8-DC2C-4C51-8E7A-88A67A5FCFE8}
+		{1D2B790B-3191-4899-94F7-7D64C63EE3C6} = {20159992-75E5-4696-A856-97BE3EA67E8F}
+		{7186BCCF-C258-482A-9BC0-F24C011D3A9A} = {20159992-75E5-4696-A856-97BE3EA67E8F}
+		{65D9BCDE-B996-4F70-80AF-1AAFFE10F677} = {BEC8A5B3-EB7F-4B5C-806E-AAF68A07A216}
+		{49698878-289C-4288-9D5F-F8A1988D3A2B} = {BEC8A5B3-EB7F-4B5C-806E-AAF68A07A216}
+		{C7B40B37-428D-4FEF-9A9A-621AAA83DCC8} = {239CC6A8-FB2E-435E-B64A-E5B90E13B40B}
+		{C28E0033-2A50-489C-A179-B61ECF115325} = {239CC6A8-FB2E-435E-B64A-E5B90E13B40B}
+		{453CC176-808E-42A8-BA07-F9B623B433EF} = {239CC6A8-FB2E-435E-B64A-E5B90E13B40B}
+		{74731175-35AB-4C6D-AE2E-338C8F083AB2} = {1A0604BD-C4D1-4310-8842-CC17BA8CE801}
+		{03347F10-49A2-418B-853A-D3225A2ED79D} = {1A0604BD-C4D1-4310-8842-CC17BA8CE801}
+		{9F26CF56-785B-46C6-A821-3B71FB5218E6} = {D6AD6E73-6B5E-4872-BBD9-53EEA0CE76B4}
+		{8CD989A1-FC94-4BAD-8F51-2A05094F6B34} = {D6AD6E73-6B5E-4872-BBD9-53EEA0CE76B4}
+		{A4106F10-61CD-4317-98FE-F00B90F031D0} = {1522803A-D5B8-4F24-A1FB-AC4FBB0068BC}
+		{FCB963EC-96A9-47C5-9A0E-D135BFD2E9CD} = {1522803A-D5B8-4F24-A1FB-AC4FBB0068BC}
+		{0204A20A-97D1-4068-88F0-C267386317D0} = {1522803A-D5B8-4F24-A1FB-AC4FBB0068BC}
+		{F24391B3-5C8A-4F4F-BB32-227960531BFC} = {0077DF4E-FC77-4217-972F-582076AB516B}
+		{AC42EEB0-98FC-4F85-A0A2-E114B6CEA22D} = {0077DF4E-FC77-4217-972F-582076AB516B}
+		{9BB51FF9-8792-4900-8545-0D27EC4E6A65} = {545525D1-F8BB-48CA-B73B-199D57349991}
+		{9EB8966B-164C-467B-9869-5A5AFC8501BE} = {545525D1-F8BB-48CA-B73B-199D57349991}
+		{5BF5C620-A50B-4757-BA05-840DEAB39DBE} = {75E5942E-9706-404B-83A2-22317D723984}
+		{2B2169F8-31EF-49FD-8460-644CB715AB5C} = {75E5942E-9706-404B-83A2-22317D723984}
+		{E9197530-A5D5-4F82-AA04-08AD0759D6E7} = {7ED7D3F9-60FB-4A98-8AA7-A5DD32DFAFD8}
+		{E712AE78-6AC0-4016-9A54-7A26554240F3} = {7ED7D3F9-60FB-4A98-8AA7-A5DD32DFAFD8}
+		{125810F7-5155-4A1C-B34A-96BF41CB6582} = {FDE3E9C4-9003-4324-92FE-CAC7E8C12FF8}
+		{F038FBAA-1398-407A-9CB3-6F3699BC4805} = {FDE3E9C4-9003-4324-92FE-CAC7E8C12FF8}
+		{522DB49D-BAEA-4BA4-9237-7EF6C02BC7CE} = {FDE3E9C4-9003-4324-92FE-CAC7E8C12FF8}
+		{69D9446C-81CA-4C15-810A-E112FFECC61B} = {8F8843CD-615B-4BAF-8156-7AB0198AC638}
+		{BD6AB63F-0224-4F35-B56F-FC5400308B97} = {8F8843CD-615B-4BAF-8156-7AB0198AC638}
+		{3731ACD1-27E6-483B-ABEE-693E5454E74C} = {8F8843CD-615B-4BAF-8156-7AB0198AC638}
+		{06266B51-B32E-4231-B445-4665EBA52706} = {3C3B57C7-C3D4-4179-93A8-5AA61075DD11}
+		{C60590B4-E275-4345-8EEF-BE18B3F17663} = {3C3B57C7-C3D4-4179-93A8-5AA61075DD11}
+		{DD0FDFF7-C7AB-4D95-992D-BEEB7C1ABAB0} = {960197C4-749C-4396-8A29-9D80D01FADA6}
+		{5DAD3F2A-EBC3-403F-B699-EFBDB64046E4} = {960197C4-749C-4396-8A29-9D80D01FADA6}
+		{0EC59D24-9D3D-4B39-AF02-D807329917FF} = {CCE4BEBA-5B3F-420B-B7B6-91FDAD9CE167}
+		{4753FF95-6638-48AD-A152-AFF510937B5D} = {CCE4BEBA-5B3F-420B-B7B6-91FDAD9CE167}
+		{69F53374-9C23-4B95-B823-D8FEE436E15B} = {CCE4BEBA-5B3F-420B-B7B6-91FDAD9CE167}
+		{5BB86650-F316-4AC0-A99B-57AB9DABA12C} = {F853BB75-197E-4858-BFD8-B679204C2620}
+		{FE6C2E02-6E3E-459A-B778-46A02E2FDF23} = {F853BB75-197E-4858-BFD8-B679204C2620}
+		{B68C06E8-CABD-4D49-93D6-F3A2991A7CEC} = {F853BB75-197E-4858-BFD8-B679204C2620}
+		{318190EA-A171-4B6F-8F1B-AD95C6D7ED2D} = {AE059C57-C613-483C-923C-9CA09ADD5525}
+		{CBFC0CF6-8006-4B53-B6E3-D867C753F356} = {AE059C57-C613-483C-923C-9CA09ADD5525}
+		{2D49C885-B633-465F-9044-A7A6132F0693} = {C0882C7C-91A6-4D46-B262-CC10B9D21330}
+		{FCEA13A7-AA46-4112-B2E3-FCA6A46B9CD7} = {C0882C7C-91A6-4D46-B262-CC10B9D21330}
+		{9157684E-CCBB-44FC-BDC7-F06811D53988} = {4C093A21-3379-45BE-81F4-52341862F95F}
+		{390FE28F-65CE-41E1-83AD-94E9CCB31187} = {4C093A21-3379-45BE-81F4-52341862F95F}
+		{7EBD2E3B-4E6E-4B90-9EAA-440B1AEE6012} = {0DE18094-D590-45E6-A1DE-01516D7E7BDF}
+		{8F13B28A-DA2F-406E-A658-87F4ABF78971} = {0DE18094-D590-45E6-A1DE-01516D7E7BDF}
+		{9A48605F-0114-41EF-B2C3-0ED0773EFC36} = {A3CDABA5-1905-40C1-BE4E-E1CE015CBE44}
+		{26544F3C-221C-4BA3-8DB4-1D90AA1D01F9} = {A3CDABA5-1905-40C1-BE4E-E1CE015CBE44}
+		{522CEF1B-8EC3-4323-BDDE-8948E52D328F} = {49E954AA-10D3-41E7-98EC-5B6E30D15BE1}
+		{C6FBFDA1-C31C-4F85-8FF4-10EFC422F83D} = {49E954AA-10D3-41E7-98EC-5B6E30D15BE1}
+		{F4087EA4-2BD5-4396-A389-544BB8740E46} = {BCFE8ABF-D4CD-4205-A2B3-3CFD750A93B3}
+		{0071C46D-0754-43A6-B974-B904CEEF05B1} = {BCFE8ABF-D4CD-4205-A2B3-3CFD750A93B3}
+		{D0551E36-B8DE-44BA-9E2B-CDF9EADFACF4} = {7885B720-8584-4926-B7A5-BFBE73F9E9A1}
+		{374188CB-868F-41DE-AC0F-492BCD50E9F2} = {7885B720-8584-4926-B7A5-BFBE73F9E9A1}
+		{E70BFF88-F52E-4609-85A4-48B54D42D569} = {9393116F-639D-4480-A329-FBF2CA94A057}
+		{0E40F85C-D68B-4C0E-8342-E689A277266C} = {9393116F-639D-4480-A329-FBF2CA94A057}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {AE30A528-A80F-4B72-84AB-68C7793BF02F}
